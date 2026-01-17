@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #2d3a8c;
+    height: 100vh;
+}
+
+.form-bg {
+    background-color: #ffffff;
+    height: 100vh;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.form {
+    background-color: #f5f7fa;
+    border-radius: 30px;
+    padding: 20px;
+    border: solid;
+    border-width: 1px;
+    border-color: #cbd2d9;
+    margin-bottom: 25px;
+}
+
+.label {
+    font-size: 12px;
+    color: #7b8794;
+}
+
+.button {
+    background-color: #21396c;
+    border: none;
+    color: #ffffff;
+}
+
+.bookmark-items {
+    background-color: #f5f7fa;
+    border-radius: 30px;
+    padding: 20px;
+    border: solid;
+    border-width: 1px;
+    border-color: #cbd2d9;
+    list-style-type: none;
+}
